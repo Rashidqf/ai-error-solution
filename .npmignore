@@ -2,6 +2,10 @@
 example.js
 .env
 .env.*
+publish-github.ps1
+publish-both.ps1
+package.json.backup
+PUBLISH_GUIDE.md
 
 # Git
 .git/
