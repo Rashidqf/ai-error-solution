@@ -23,7 +23,10 @@
     "runtime-errors",
     "stack-trace"
   ],
-  "author": "",
+  "author": {
+    "name": "Rashid",
+    "url": "https://github.com/Rashidqf"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",

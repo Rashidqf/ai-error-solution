@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.0.1] - 2025-12-31
+## [1.1.1] - 2025-12-31
 
 ### Fixed
 - Removed self-dependency issue in package.json
@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Streamlined package structure for npm distribution
+- Added author information to package.json
 
 ---
 
@@ -71,7 +72,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Version History
 
-- **1.0.1** (2025-12-31) - Bug fixes and optimization
+- **1.1.1** (2025-12-31) - Bug fixes and optimization
 - **1.0.0** (2025-12-31) - Initial release
 
 ---
