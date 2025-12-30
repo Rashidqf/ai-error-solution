@@ -1,0 +1,37 @@
+{
+  "name": "ai-error-solution",
+  "version": "1.0.0",
+  "description": "Lightweight Node.js error handler that uses OpenAI to provide explanations, causes, fixes, and documentation links for runtime errors",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "error-handling",
+    "debugging",
+    "openai",
+    "error-analysis",
+    "ai-debugging",
+    "error-solution",
+    "runtime-errors",
+    "stack-trace"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/ai-error-solution.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/ai-error-solution/issues"
+  },
+  "homepage": "https://github.com/yourusername/ai-error-solution#readme"
+}
+

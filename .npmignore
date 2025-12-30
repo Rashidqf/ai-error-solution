@@ -1,0 +1,35 @@
+# Development files
+example.js
+.env
+.env.*
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing
+test/
+tests/
+*.test.js
+*.spec.js
+coverage/
+.nyc_output/
+
+# CI/CD
+.github/
+.gitlab-ci.yml
+.travis.yml
+
+# Documentation (if you want to exclude)
+# docs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
