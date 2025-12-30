@@ -372,20 +372,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 🔗 Links
 
 - [npm Package](https://www.npmjs.com/package/ai-error-solution)
-- [GitHub Repository](https://github.com/yourusername/ai-error-solution)
+- [GitHub Repository](https://github.com/Rashidqf/ai-error-solution)
 - [OpenAI API Documentation](https://platform.openai.com/docs)
-- [Report Issues](https://github.com/yourusername/ai-error-solution/issues)
+- [Report Issues](https://github.com/Rashidqf/ai-error-solution/issues)
 
 ---
 
-## 💡 What This Package Does NOT Do
-
-- ❌ **No auto-fixing** - Does not modify your code automatically
-- ❌ **No telemetry** - Does not collect or store any usage data
-- ❌ **No remote storage** - Errors are not stored anywhere
-- ❌ **No background processes** - Only runs when you call it
-
----
 
 ## 🌟 Why This Package?
 

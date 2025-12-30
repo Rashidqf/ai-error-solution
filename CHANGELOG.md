@@ -70,6 +70,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this 
 ## Support
 
 For issues and questions, please visit:
-- GitHub Issues: https://github.com/yourusername/ai-error-solution/issues
+- GitHub Issues: https://github.com/Rashidqf/ai-error-solution/issues
 - npm Page: https://www.npmjs.com/package/ai-error-solution
 

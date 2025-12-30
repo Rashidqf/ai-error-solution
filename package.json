@@ -27,11 +27,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/ai-error-solution.git"
+    "url": "https://github.com/Rashidqf/ai-error-solution.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/ai-error-solution/issues"
+    "url": "https://github.com/Rashidqf/ai-error-solution/issues"
   },
-  "homepage": "https://github.com/yourusername/ai-error-solution#readme"
+  "homepage": "https://github.com/Rashidqf/ai-error-solution#readme",
+  "dependencies": {
+    "ai-error-solution": "^1.0.0"
+  }
 }
-
