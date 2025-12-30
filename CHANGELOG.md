@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.4] - 2025-12-31
+
+### Fixed
+- GitHub Packages now published with public access (was private by default)
+
+### Changed
+- Updated publish scripts to include --access=public flag
+
+---
+
 ## [1.1.3] - 2025-12-31
 
 ### Added
@@ -86,6 +96,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Version History
 
+- **1.1.4** (2025-12-31) - GitHub Packages now public
 - **1.1.3** (2025-12-31) - Dual registry support (npm + GitHub Packages)
 - **1.1.2** (2025-12-31) - Bug fixes and optimization
 - **1.1.1** (2025-12-31) - Updated author info
